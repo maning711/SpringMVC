@@ -28,7 +28,7 @@
 <body>
 <h1>这里是SpringMVC Demo首页</h1>
 
-<h3>我是小熊</h3>
+<h3>我是小熊4444</h3>
 
 <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
 <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
